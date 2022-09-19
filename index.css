@@ -1,0 +1,31 @@
+body {
+    background-color: #444;
+    color: #eee;
+}
+
+#container{
+    display: grid;
+    justify-content: center;
+}
+
+table, tr, td{
+    border: 1px solid #fff;
+    border-collapse: collapse;
+    padding: 3px 100px;
+}
+
+.bg-white{
+    background-color: #fff;
+}
+
+.cl-black{
+    color: #000;
+}
+
+.bg-black{
+    background-color: #000;
+}
+
+.cl-white{
+    color: #fff;
+}
